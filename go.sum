@@ -1,0 +1,4 @@
+github.com/valyala/fastrand v1.1.0 h1:f+5HkLW4rsgzdNoleUOB69hyT9IlD2ZQh9GyDMfb5G8=
+github.com/valyala/fastrand v1.1.0/go.mod h1:HWqCzkrkg6QXT8V2EXWvXCoow7vLwOFN002oeRzjapQ=
+github.com/zhuzhu67373/zzrand v1.0.0 h1:yLik8FDnj+GNOZ39OK7hhJUkIfl1ca5eBo2plnO7jec=
+github.com/zhuzhu67373/zzrand v1.0.0/go.mod h1:hSlZxooyYZ8N8ghnuBBJs5rAY9paXLO6v9fONGdnh9k=
